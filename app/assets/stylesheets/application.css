@@ -13,3 +13,39 @@
  *= require_tree .
  *= require_self
  */
+* {
+  margin:0px;
+  padding:0px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.nav {
+  background-color: rgb(206, 201, 201);
+  color: grey;
+  padding: 15px;
+  border: 1px solid transparent;
+
+}
+
+.nav-right {
+  float: right;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-color: #fff;
+  margin: 0;
+  border: 0;
+  padding:0px;
+}
+
+html, body{
+
+}
